@@ -19,7 +19,7 @@ h1 {
 
 #bio {
     padding: 20px;
-    font-size: 20px;
+    font-size: 25px;
     text-align: center;
 }
 
@@ -30,4 +30,7 @@ ul {
 #me {
     height: 230px;
     width: 200px;
+}
+h3{
+    font-size: 25px;
 }
